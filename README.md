@@ -1,18 +1,97 @@
-# 💫 About Me:
-Computer Engineering undergraduate at the University of Sri Jayewardenepura,<br>focused on Software Engineering, Full-Stack Development and Backend Development.<br><br>## About Me<br>- 🎓 B.Sc. (Hons) Computer Engineering<br>- 💻 Full-Stack & Backend Development<br>- 🌱 Currently strengthening Java, Python and DSA<br>- 🔎 Looking for Software Engineering / Full-Stack internship opportunities
+# Hi, I'm Kushalini Satheeswaran 👋
 
+Computer Engineering undergraduate at the University of Sri Jayewardenepura, focused on building practical software solutions across full-stack, backend, mobile and data-driven applications.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/kushalini-satheeswaran) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kushalini satheeswaran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushalinisatheeswaran33@gmail.com) 
+I'm currently preparing for Software Engineering and Full-Stack internship opportunities while strengthening my skills in Java, Python, DSA and modern web development.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Kushalinisatheeswaran&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Kushalinisatheeswaran&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kushalinisatheeswaran&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 👩‍💻 About Me
+
+- 🎓 B.Sc. (Hons) Computer Engineering undergraduate
+- 💻 Interested in Software Engineering, Full-Stack Development and Backend Development
+- 🧩 Experience with web applications, REST APIs, authentication, databases and real-time systems
+- 🌱 Currently improving Java, Python and Data Structures & Algorithms
+- 🔎 Open to Software Engineering / Full-Stack internship opportunities
+
+## 🛠 Tech Stack
+
+### Languages
+Java • Python • JavaScript • TypeScript • C++ • SQL
+
+### Frontend
+React • Next.js • React Native • Expo • Tailwind CSS • HTML • CSS
+
+### Backend
+Spring Boot • Node.js • Express • Flask • FastAPI
+
+### Databases
+PostgreSQL • MongoDB • MySQL • Firebase / Firestore
+
+### Tools & Technologies
+Git • GitHub • Prisma • Mongoose • Postman • Vercel • Render • REST APIs • Socket.IO
+
+## 🚀 Featured Projects
+
+### 🌍 Travel Planner
+Full-stack travel planning application with trip management, Google Maps integration, OAuth authentication, itinerary reordering and PostgreSQL data storage.
+
+**Tech:** Next.js • TypeScript • Prisma • PostgreSQL • NextAuth • Google Maps
+
+[Repository](https://github.com/kushalinisatheeswaran/Trip-Planner-App) |
+[Live Demo](https://trip-planner-app-zeta.vercel.app)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Kushalinisatheeswaran&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💼 Job Application Tracker
+A Kanban-style platform for managing job applications across different recruitment stages with authentication and drag-and-drop functionality.
+
+**Tech:** Next.js • TypeScript • MongoDB • Mongoose • Better Auth • dnd-kit
+
+[Repository](https://github.com/kushalinisatheeswaran/Job-Application-Tracker) |
+[Live Demo](https://job-application-tracker-green-iota.vercel.app)
+
+---
+
+### 🛒 E-Commerce Application
+Full-stack e-commerce platform with product management, shopping cart, checkout, order history and admin functionality.
+
+**Tech:** Next.js • Java • Spring Boot • PostgreSQL • Spring Security • JWT
+
+[Repository](https://github.com/kushalinisatheeswaran/ecommerce-app)
+
+---
+
+### 🚪 IntelliGate
+University engineering prototype combining backend services, mobile monitoring, database management and computer vision for gate-access automation.
+
+**Tech:** Python • Flask • PostgreSQL • React Native • Expo • Socket.IO • OpenCV
+
+[Repository](https://github.com/kushalinisatheeswaran/Intelligate-System)
+
+---
+
+### ✅ Task Management Application
+Collaborative task-management application with project boards, assignments, comments, progress tracking and real-time Firebase updates.
+
+**Tech:** React • TypeScript • Node.js • Express • Firebase • Firestore
+
+[Repository](https://github.com/kushalinisatheeswaran/TaskManagemnetApp)
+
+---
+
+### 💊 PharmaShortage Predictor / MedCascade
+Experimental ML project for exploring medicine-shortage risk scores and graph-based cascade scenarios.
+
+**Tech:** Python • FastAPI • scikit-learn • Next.js • pandas • NetworkX
+
+[Repository](https://github.com/kushalinisatheeswaran/pharma-shortage-predictor)
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://kushalini-portfolio.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/kushalini-satheeswaran-29a267357/
+- 💻 GitHub: https://github.com/kushalinisatheeswaran
+- ✉️ Email: kushalinisatheeswaran33@gmail.com
+
+---
+
+Thanks for visiting my profile!
